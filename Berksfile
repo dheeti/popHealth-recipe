@@ -2,4 +2,4 @@ source "http://api.berkshelf.com"
 
 metadata
 
-cookbook 'rvm', path: '/home/jayram/beat/chef-rvm'
+cookbook 'rvm', git: 'https://github.com/dheeti/popHealth-recipe.git'
