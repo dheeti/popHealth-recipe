@@ -8,5 +8,5 @@ version          '0.2.0'
 depends          "mongodb"
 depends          "apt"
 depends          "git"
-#depends          "rvm"
+depends          "rvm"
 depends          "sudo"
